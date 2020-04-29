@@ -1,1 +1,2 @@
-# 1988-Coffee.github.io
+.github.io
+GitHub Pages
