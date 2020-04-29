@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Hotel Template",
+    "name": "1988 coffee",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -33,7 +33,7 @@
         "#000000"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/1988-128x128.png",
     "noImageResize": "true",
     "google-analytics": "",
     "versionFirst": "4.3.2",
@@ -52,7 +52,17 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "witsec-language": "vi",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-mailform": false,
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
